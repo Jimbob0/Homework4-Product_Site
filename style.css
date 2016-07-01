@@ -1,0 +1,37 @@
+.top_banner{
+	text-align: center;
+}
+.footer_left{
+	float: left;
+}
+.footer_right{
+	float: right;
+}
+body{
+	background: #403633;
+	background-image: url(https://static-www.totalwar.com/styles/product_page_promo_980x720/s3/images/products/promo/page/980/warhammer_pagepromoimage_980_720.png?itok=CRzeBfsD);
+}
+.a{
+	background: rgb(178, 128, 49);
+}
+.caption{
+	background: #40322A;
+	color: white;
+}
+.f{
+	background: rgb(178, 128, 49);
+}
+.g{
+	background: #333;
+	color: rgb(178, 128, 49);
+}
+.btn-danger{
+	float: right;
+	background: #400600;
+}
+.top_banner{
+	float: left;
+}
+.b{
+	height: 80px;
+}
