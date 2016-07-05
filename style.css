@@ -35,9 +35,15 @@ body{
 	border: none;
 }
 .e{
-	height-max: 550px;
-	width-max: 970px;
+	max-width: 970px;
 }
 .c{
 	max-width: 780px;
+}
+.thumbnail{
+	padding: 0;
+	border: 0;
+}
+.d_column{
+	max-width: 307px;
 }
