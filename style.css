@@ -27,10 +27,8 @@ body{
 	background: gb(255, 204, 81);
 	color: black;
 }
-.top_banner{
-	text-align: center;
-}
 .b{
-	height: 80px;
-	background-image: url("http://demandware.edgesuite.net/aapa_prd/on/demandware.static/Sites-burtsbees-Site/-/default/v1467468529913/images/interface/bg-nav.png");
+	height: 120px;
+	background-image: url("http://demandware.edgesuite.net/aapa_prd/on/demandware.static/Sites-burtsbees-Site/-/default/v1467468529913/images/BeeHive-BG.jpg");
+	color: black
 }
