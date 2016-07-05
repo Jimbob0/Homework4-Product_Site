@@ -1,5 +1,6 @@
-.top_banner{
+.a{
 	text-align: center;
+	color: white;
 }
 .footer_left{
 	float: left;
@@ -16,9 +17,10 @@ body{
 	color: white;
 	text-align: center;
 }
-.caption{
+.tb_cap{
 	background-image: url("http://demandware.edgesuite.net/aapa_prd/on/demandware.static/Sites-burtsbees-Site/-/default/v1467468529913/images/interface/bg-nav.png");
 	color: white;
+	text-align: center;
 }
 .f{
 	background: #c1b79d;
@@ -30,8 +32,12 @@ body{
 .b{
 	height: 120px;
 	background-image: url("http://demandware.edgesuite.net/aapa_prd/on/demandware.static/Sites-burtsbees-Site/-/default/v1467468529913/images/BeeHive-BG.jpg");
+	border: none;
 }
 .e{
 	height-max: 550px;
 	width-max: 970px;
+}
+.c{
+	max-width: 780px;
 }
