@@ -32,6 +32,6 @@ body{
 	background-image: url("http://demandware.edgesuite.net/aapa_prd/on/demandware.static/Sites-burtsbees-Site/-/default/v1467468529913/images/BeeHive-BG.jpg");
 }
 .e{
-	height: 550px;
-	width: 970px;
+	height-max: 550px;
+	width-max: 970px;
 }
